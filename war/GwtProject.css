@@ -32,3 +32,20 @@ h1 {
 #closeButton {
   margin: 15px 6px 6px;
 }
+
+.redButton {
+	color: red;
+}
+
+.textStyle {
+	color: blue;
+}
+
+.labelStyle {
+	color: green;
+	text-align: center;
+}
+
+table td{
+	padding:10px;
+}
