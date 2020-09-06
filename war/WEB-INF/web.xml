@@ -7,13 +7,13 @@
 
   <!-- Servlets -->
   <servlet>
-    <servlet-name>greetServlet</servlet-name>
-    <servlet-class>ua.training.server.GreetingServiceImpl</servlet-class>
+    <servlet-name>stringServiceServlet</servlet-name>
+    <servlet-class>ua.training.server.StringServiceImpl</servlet-class>
   </servlet>
   
   <servlet-mapping>
-    <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/gwtproject/greet</url-pattern>
+    <servlet-name>stringServiceServlet</servlet-name>
+    <url-pattern>/gwtproject/check</url-pattern>
   </servlet-mapping>
   
   <!-- Default page to serve -->

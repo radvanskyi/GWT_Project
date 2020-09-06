@@ -1,0 +1,2 @@
+serviceClass: ua.training.client.StringService
+path: 468D17205D6116BF691CE665CF872786.gwt.rpc

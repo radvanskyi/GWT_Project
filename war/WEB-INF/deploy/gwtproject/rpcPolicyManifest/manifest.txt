@@ -1,2 +1,3 @@
 # Module gwtproject
 # RPC service class, partial path of RPC policy file
+ua.training.client.StringService, 468D17205D6116BF691CE665CF872786.gwt.rpc
